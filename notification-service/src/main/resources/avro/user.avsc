@@ -1,0 +1,9 @@
+{"namespace": "com.ecosystem.models",
+  "type": "record",
+  "name": "UserData",
+  "fields": [
+    {"name": "id", "type": "string"},
+    {"name": "name", "type": "string"},
+    {"name": "email",  "type": "string"}
+  ]
+}
